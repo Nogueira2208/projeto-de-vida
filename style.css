@@ -6,7 +6,7 @@
     --branco: white;
     --botao-ativo: hsla(333, 100%, 50%, 0.397);
     --botao-inativo: rgba(128, 128, 128, 0.548);
-    --texto-fundo: white;
+    --texto-fundo: black;
 }
 
 body {
