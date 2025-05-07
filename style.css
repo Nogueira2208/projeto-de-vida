@@ -4,7 +4,7 @@
     --cor-de-fundo: white;
     --verde: #ff0073;
     --branco: #ff0073;
-    --botao-ativo: #ff0073;
+    --botao-ativo: rgb(245, 142, 159);
     --botao-inativo: pink;
     --texto-fundo: pink;
 }
